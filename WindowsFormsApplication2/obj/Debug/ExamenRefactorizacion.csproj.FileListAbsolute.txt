@@ -1,0 +1,24 @@
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ExamenRefactorizacion.exe
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\ExamenRefactorizacion.pdb
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.Properties.Resources.resources
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.csproj.GenerateResource.Cache
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.exe
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.pdb
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\ExamenRefactorizacion\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.exe
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\ExamenRefactorizacion\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.pdb
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\ExamenRefactorizacion\WindowsFormsApplication2\bin\Debug\ExamenRefactorizacion.exe
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\ExamenRefactorizacion\WindowsFormsApplication2\bin\Debug\ExamenRefactorizacion.pdb
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\ExamenRefactorizacion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\ExamenRefactorizacion\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.Properties.Resources.resources
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\ExamenRefactorizacion\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.csproj.GenerateResource.Cache
+C:\Documents and Settings\carlos\Mis documentos\Visual Studio 2008\Projects\ExamenRefactorizacion\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.Form1.resources
+Z:\examen_refactorizacion\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.exe
+Z:\examen_refactorizacion\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.pdb
+Z:\examen_refactorizacion\WindowsFormsApplication2\bin\Debug\ExamenRefactorizacion.exe
+Z:\examen_refactorizacion\WindowsFormsApplication2\bin\Debug\ExamenRefactorizacion.pdb
+Z:\examen_refactorizacion\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+Z:\examen_refactorizacion\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.Form1.resources
+Z:\examen_refactorizacion\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.Properties.Resources.resources
+Z:\examen_refactorizacion\WindowsFormsApplication2\obj\Debug\ExamenRefactorizacion.csproj.GenerateResource.Cache
