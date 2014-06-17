@@ -69,7 +69,7 @@ namespace ExamenRefactorizacion
 
             if (ValidarTextBoxDatosAlumno())
             {
-                if (alu == null)
+                if ( AlumnoNoHaSidoCreado() )
                 {
                     alu = new alumno(textBoxNombreAlumno.Text, textBoxApellido1.Text, textBoxApellido2.Text);
                     ActivarEscrituraEnDatosAlumno(false);
@@ -89,6 +89,11 @@ namespace ExamenRefactorizacion
                 VaciarTextBox();
                 ActivarEscrituraEnDatosAlumno(true);
             }
+        }
+
+        private bool AlumnoNoHaSidoCreado()
+        {
+            return alu == null;
         }
 
         private bool ValidarTextBoxMateriaNota()
@@ -115,7 +120,7 @@ namespace ExamenRefactorizacion
 
         private void buttonMostrarResultados_Click(object sender, EventArgs e)
         {
-            if( alu != null )
+            if( ! AlumnoNoHaSidoCreado() )
                 textBoxResultados.Text = alu.Mostrar();
 
         }
