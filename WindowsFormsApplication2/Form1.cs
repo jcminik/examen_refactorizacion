@@ -12,11 +12,12 @@ namespace ExamenRefactorizacion
     public partial class Form1 : Form
     {
 
-        alumno alu = null;
+        alumno alu;
 
         public Form1()
         {
             InitializeComponent();
+            limpiarAlumno();
         }
 
         private void buttonLimpiarDatos_Click(object sender, EventArgs e)
@@ -26,7 +27,12 @@ namespace ExamenRefactorizacion
             
             ActivarEscrituraEnDatosAlumno(true);
 
-            alu = null;
+            limpiarAlumno();
+        }
+
+        private alumno limpiarAlumno()
+        {
+            return alu = null;
         }
 
         private void ActivarEscrituraEnDatosAlumno(bool activar)
@@ -69,7 +75,7 @@ namespace ExamenRefactorizacion
 
             if (ValidarTextBoxDatosAlumno())
             {
-                if ( AlumnoNoHaSidoCreado() )
+                if ( ! AlumnoEstaCreado() )
                 {
                     alu = new alumno(textBoxNombreAlumno.Text, textBoxApellido1.Text, textBoxApellido2.Text);
                     ActivarEscrituraEnDatosAlumno(false);
@@ -91,9 +97,9 @@ namespace ExamenRefactorizacion
             }
         }
 
-        private bool AlumnoNoHaSidoCreado()
+        private bool AlumnoEstaCreado()
         {
-            return alu == null;
+            return alu != null;
         }
 
         private bool ValidarTextBoxMateriaNota()
@@ -120,7 +126,7 @@ namespace ExamenRefactorizacion
 
         private void buttonMostrarResultados_Click(object sender, EventArgs e)
         {
-            if( ! AlumnoNoHaSidoCreado() )
+            if(  AlumnoEstaCreado() )
                 textBoxResultados.Text = alu.Mostrar();
 
         }
